@@ -81,8 +81,6 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 # --- ÇOCUK / KÜLTÜR / BELGESEL ---
 #EXTINF:-1 group-title="Çocuk",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Çocuk",Minika Çocuk
-# Minika Çocuk için ayrı, doğrulanmış doğrudan akış bulunamadı; Minika GO adresiyle karıştırılmadı.
 #EXTINF:-1 group-title="Çocuk",Minika GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 group-title="Kültür / Belgesel",TRT 2
