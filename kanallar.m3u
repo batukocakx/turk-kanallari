@@ -7,7 +7,7 @@
 #EXTINF:-1 group-title="Genel",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Genel",ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+https://trkvz-live.ercdn.net/atvhd/atvhd.m3u8
 #EXTINF:-1 group-title="Genel",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 group-title="Genel",Show TV
@@ -17,7 +17,7 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 group-title="Genel",Star TV
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
 #EXTINF:-1 group-title="Genel",TV8
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 group-title="Genel",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 group-title="Genel",Beyaz TV
@@ -27,7 +27,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 group-title="Genel",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 group-title="Genel",teve2
-https://demiroren.daioncdn.net/teve2/teve2.m3u8
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 
 # --- HABER ---
 #EXTINF:-1 group-title="Haber",TRT Haber
@@ -40,26 +40,26 @@ https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 #EXTINF:-1 group-title="Haber",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 group-title="Haber",Habertürk
-https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/playlist.m3u8
 #EXTINF:-1 group-title="Haber",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 # Sözcü TV: Resmî/izinli olduğu doğrulanabilen doğrudan akış adresi doğrulanamadı; eklenmedi.
 #EXTINF:-1 group-title="Haber",TVNET
-https://tvnet-live.lg.mncdn.com/tvnet/playlist.m3u8
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 group-title="Haber",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 group-title="Haber",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 group-title="Haber",Bloomberg HT
-https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?app=web
+https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
 
 # --- SPOR ---
 #EXTINF:-1 group-title="Spor",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 group-title="Spor",TRT Spor
-https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+https://tv-trtspor1.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Spor",TRT Spor Yıldız
-https://tv-trtsporyildiz.medya.trt.com.tr/master_720.m3u8
+https://tv-trtspor2.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Spor",HT Spor
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 # FB TV: Bu doğrudan akışın resmî/izinli olduğu doğrulanamadığından eklenmedi.
@@ -90,7 +90,7 @@ https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Çocuk",Minika GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 group-title="Kültür / Belgesel",TRT Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Kültür / Belgesel",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="Kültür / Belgesel",Diyanet TV
