@@ -95,20 +95,62 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe46
 # --- DİĞER ---
 # Ülke TV: Resmî/izinli olduğu doğrulanabilen doğrudan akış adresi doğrulanamadı; eklenmedi.
 
-# --- ALMAN KANALLARI ---
-#EXTINF:-1 group-title="Alman Kanalları",Das Erste HD
+# --- ALMAN KANALLARI: GENEL ---
+# Resmî/ücretsiz öffentlich-rechtliche yayınlar; HLS/M3U8 uç noktaları.
+#EXTINF:-1 group-title="Alman - Genel Kanallar",Das Erste HD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-#EXTINF:-1 group-title="Alman Kanalları",ZDF HD
+#EXTINF:-1 group-title="Alman - Genel Kanallar",ZDF HD
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 group-title="Alman Kanalları",3sat
+#EXTINF:-1 group-title="Alman - Genel Kanallar",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
-#EXTINF:-1 group-title="Alman Kanalları",ARTE Deutsch
+#EXTINF:-1 group-title="Alman - Genel Kanallar",ARTE Deutsch
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
-#EXTINF:-1 group-title="Alman Kanalları",ARD alpha
+#EXTINF:-1 group-title="Alman - Genel Kanallar",ARD alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1 group-title="Alman Kanalları",phoenix
+#EXTINF:-1 group-title="Alman - Genel Kanallar",ONE HD
+https://mcdn-one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 group-title="Alman - Genel Kanallar",ZDFneo HD
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+
+# --- ALMAN KANALLARI: HABER ---
+#EXTINF:-1 group-title="Alman - Haber",phoenix HD
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
-#EXTINF:-1 group-title="Alman Kanalları",tagesschau24
+#EXTINF:-1 group-title="Alman - Haber",tagesschau24
 https://tagesschau24-live.ard-mcdn.de/tagesschau24/live/hls/de/master.m3u8
-#EXTINF:-1 group-title="Alman Kanalları",KiKA
+#EXTINF:-1 group-title="Alman - Haber",ZDFinfo HD
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+#EXTINF:-1 group-title="Alman - Haber",DW Deutsch
+https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
+
+# --- ALMAN KANALLARI: SPOR ---
+# Ücretsiz ve resmî, sürekli çalışan bağımsız bir Alman spor-TV HLS akışı güvenilir biçimde doğrulanamadı.
+# Canlı spor etkinlikleri yayıncıların Das Erste/ZDF/ARD medya oynatıcılarında dönemsel olarak bulunabilir.
+
+# --- ALMAN KANALLARI: ÇOCUK ---
+#EXTINF:-1 group-title="Alman - Çocuk",KiKA
 https://kika-live.ard-mcdn.de/kika/live/hls/de/master.m3u8
+
+# --- ALMAN KANALLARI: BÖLGESEL ---
+# Baden-Württemberg için bölgesel yayın öncelikli.
+#EXTINF:-1 group-title="Alman - Bölgesel Kanallar",SWR Baden-Württemberg HD
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 group-title="Alman - Bölgesel Kanallar",SWR Rheinland-Pfalz HD
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
+#EXTINF:-1 group-title="Alman - Bölgesel Kanallar",BR Süd
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 group-title="Alman - Bölgesel Kanallar",BR Nord
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 group-title="Alman - Bölgesel Kanallar",HR Fernsehen
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
+#EXTINF:-1 group-title="Alman - Bölgesel Kanallar",MDR Sachsen
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+#EXTINF:-1 group-title="Alman - Bölgesel Kanallar",NDR Fernsehen
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 group-title="Alman - Bölgesel Kanallar",Radio Bremen Fernsehen
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 group-title="Alman - Bölgesel Kanallar",rbb Brandenburg
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+#EXTINF:-1 group-title="Alman - Bölgesel Kanallar",SR Fernsehen
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 group-title="Alman - Bölgesel Kanallar",WDR Fernsehen
+https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
