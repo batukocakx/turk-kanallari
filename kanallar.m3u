@@ -154,3 +154,14 @@ https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/maste
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 #EXTINF:-1 group-title="Alman - Bölgesel Kanallar",WDR Fernsehen
 https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
+
+# --- beIN SPORTS KANALLARI (TEST) ---
+# Test amaçlı üçüncü taraf akışlarıdır; resmî beIN bağlantıları değildir ve çalışmayabilir.
+#EXTINF:-1 group-title="Türk - beIN SPORTS (Test)",beIN SPORTS HABER (Test)
+https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Türk - beIN SPORTS (Test)",beIN SPORTS 1 (Test)
+https://live-freeshot.mark-clark.workers.dev/?ID=beINSPORTS1TR
+#EXTINF:-1 group-title="Türk - beIN SPORTS (Test)",beIN SPORTS 2 (Test)
+https://trgoals1541.xyz/yayinb2.m3u8
+#EXTINF:-1 group-title="Türk - beIN SPORTS (Test)",beIN SPORTS 3 (Test)
+https://trgoals1541.xyz/yayinb3.m3u8
