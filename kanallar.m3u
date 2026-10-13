@@ -15,7 +15,7 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
 #EXTINF:-1 group-title="Genel",NOW TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 group-title="Genel",Star TV
-https://dogus-live.daioncdn.net/startv/playlist.m3u8
+https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web&ce=3
 #EXTINF:-1 group-title="Genel",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 group-title="Genel",Kanal 7
